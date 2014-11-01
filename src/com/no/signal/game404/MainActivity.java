@@ -1,4 +1,4 @@
-package com.young.games.game2048;
+package com.no.signal.game404;
 
 import android.app.Activity;
 import android.content.SharedPreferences;

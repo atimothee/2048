@@ -1,4 +1,4 @@
-package com.young.games.game2048;
+package com.no.signal.game404;
 
 public class Cell {
     private int x;
